@@ -2,4 +2,4 @@
 
 This repository contains the Power BI report for the Kalvium Assignment.
 
-![View Power BI Report](https://github.com/mayankpuvvala/Kalvium_Assignment/blob/main/powerBi.pdf)
+![View Power BI Report](https://mayankpuvvala.github.io/Kalvium_Assignment/)
