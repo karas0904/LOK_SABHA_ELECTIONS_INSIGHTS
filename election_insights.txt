@@ -1,0 +1,206 @@
+The election was decided by a margin of 141 seats (25.97% of total seats)
+
+No single party has a majority. Coalition government likely. (Majority required: 272)
+
+Overall Election Statistics:
+Total Seats: 543
+Total Parties: 42
+Average Seats per Party: 12.93
+
+Party size distribution:
+Size Category
+1         17
+2-5       14
+6-10       3
+11-50      5
+51-100     1
+100+       1
+
+Potential kingmakers:
+                                         Party  Total
+           All India Trinamool Congress - AITC     29
+               Dravida Munnetra Kazhagam - DMK     22
+                            Telugu Desam - TDP     16
+                  Janata Dal  (United) - JD(U)     12
+Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT      9
+
+Number of independent candidates who won: 7
+
+Top 5 candidates by total votes:
+    Winning Candidate                          Party        Constituency  Total Votes
+      RAKIBUL HUSSAIN Indian National Congress - INC          Dhubri (2)      1471885
+      SHANKAR LALWANI   Bharatiya Janata Party - BJP          INDORE(26)      1226751
+SHIVRAJ SINGH CHOUHAN   Bharatiya Janata Party - BJP         VIDISHA(18)      1116460
+     DR C N MANJUNATH   Bharatiya Janata Party - BJP Bangalore Rural(23)      1079002
+    BRIJMOHAN AGRAWAL   Bharatiya Janata Party - BJP           RAIPUR(8)      1050351
+
+Top 5 candidates by total votes for each top 10 party:
+Bharatiya Janata Party - BJP:
+    Winning Candidate        Constituency  Total Votes
+      SHANKAR LALWANI          INDORE(26)      1226751
+SHIVRAJ SINGH CHOUHAN         VIDISHA(18)      1116460
+     DR C N MANJUNATH Bangalore Rural(23)      1079002
+    BRIJMOHAN AGRAWAL           RAIPUR(8)      1050351
+            C R PATIL         Navsari(25)      1031065
+
+Indian National Congress - INC:
+    Winning Candidate  Constituency  Total Votes
+      RAKIBUL HUSSAIN    Dhubri (2)      1471885
+    Sasikanth Senthil TIRUVALLUR(1)       796956
+     PRADYUT BORDOLOI     Nagaon(9)       788850
+    KUNDURU RAGHUVEER  Nalgonda(13)       784337
+DEEPENDER SINGH HOODA     ROHTAK(7)       783578
+
+Samajwadi Party - SP:
+Winning Candidate     Constituency  Total Votes
+   R.K. CHAUDHARY Mohanlalganj(34)       667869
+   AKHILESH YADAV      Kannauj(42)       642292
+       RUCHI VIRA     Moradabad(6)       637363
+     DIMPLE YADAV     Mainpuri(21)       598526
+    ZIA UR REHMAN       Sambhal(8)       571161
+
+All India Trinamool Congress - AITC:
+    Winning Candidate        Constituency  Total Votes
+    ABHISHEK BANERJEE Diamond harbour(21)      1048230
+       PRATIMA MONDAL        Joynagar(19)       894312
+       ASIT KUMAR MAL          Bolpur(41)       855633
+ADHIKARI DEEPAK (DEV)          Ghatal(32)       837990
+       SK NURUL ISLAM        Basirhat(18)       803762
+
+Dravida Munnetra Kazhagam - DMK:
+ Winning Candidate     Constituency  Total Votes
+         T R BAALU SRIPERUMBUDUR(5)       758611
+        ARUN NEHRU   PERAMBALUR(25)       603209
+         SELVAM. G  KANCHEEPURAM(6)       586044
+THANGA TAMILSELVAN        THENI(33)       571493
+   DM KATHIR ANAND       VELLORE(8)       568692
+
+Telugu Desam - TDP:
+          Winning Candidate       Constituency  Total Votes
+      SRIBHARAT MATHUKUMILI   Visakhapatnam(4)       907467
+DR CHANDRA SEKHAR PEMMASANI         Guntur(13)       864948
+ LAVU SRIKRISHNA DEVARAYALU    Narsaraopet(14)       807996
+      G M HARISH (BALAYOGI) Amalapuram (SC)(7)       796981
+ KESINENI SIVANATH (CHINNI)     Vijayawada(12)       794154
+
+Janata Dal  (United) - JD(U):
+                   Winning Candidate  Constituency  Total Votes
+                DINESH CHANDRA YADAV Madhepura(13)       640649
+                    DILESHWAR KAMAIT     Supaul(8)       595038
+                  KAUSHALENDRA KUMAR   Nalanda(29)       559422
+RAJIV RANJAN SINGH ALIAS LALAN SINGH    Munger(28)       550146
+                   AJAY KUMAR MANDAL Bhagalpur(26)       536031
+
+Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT:
+                             Winning Candidate         Constituency  Total Votes
+OMPRAKASH BHUPALSINH ALIAS PAVAN RAJENIMBALKAR        Osmanabad(40)       748752
+                 RAJABHAU (PARAG) PRAKASH WAJE           Nashik(21)       616729
+              JADHAV SANJAY ( BANDU ) HARIBHAU         Parbhani(17)       601343
+                      SANJAY UTTAMRAO DESHMUKH Yavatmal- Washim(14)       594807
+                AASHTIKAR PATIL NAGESH BAPURAO          Hingoli(15)       492535
+
+Nationalist Congress Party – Sharadchandra Pawar - NCPSP:
+                Winning Candidate   Constituency  Total Votes
+                     SUPRIYA SULE   Baramati(35)       732312
+           DR. AMOL RAMSING KOLHE     Shirur(36)       698692
+          BAJRANG MANOHAR SONWANE       Beed(39)       683950
+            NILESH DNYANDEV LANKE Ahmednagar(37)       624797
+MOHITE-PATIL DHAIRYASHEEL RAJSINH      Madha(43)       622213
+
+Shiv Sena - SHS:
+            Winning Candidate     Constituency  Total Votes
+         NARESH GANPAT MHASKE        Thane(25)       734231
+   SHRIRANG APPA CHANDU BARNE        Maval(33)       692832
+    DR SHRIKANT EKNATH SHINDE       Kalyan(24)       589636
+DHAIRYASHEEL SAMBHAJIRAO MANE Hatkanangale(48)       520190
+   BHUMARE SANDIPANRAO ASARAM   Aurangabad(19)       476130
+
+Bottom 5 candidates by total votes:
+                           Winning Candidate                          Party                 Constituency  Total Votes
+MUKESHKUMAR CHANDRAKAANT DALAL (Uncontested)   Bharatiya Janata Party - BJP                    Surat(24)            0
+                   MUHAMMED HAMDULLAH SAYEED Indian National Congress - INC               Lakshadweep(1)        25726
+                    PATEL UMESHBHAI BABUBHAI              Independent - IND              Daman & Diu (1)        42523
+                              MOHMAD HANEEFA              Independent - IND                    Ladakh(1)        65259
+                             BISHNU PADA RAY   Bharatiya Janata Party - BJP Andaman & Nicobar Islands(1)       102436
+
+Least 5 candidates by total votes for each top 10 party:
+Bharatiya Janata Party - BJP:
+                           Winning Candidate                 Constituency  Total Votes
+MUKESHKUMAR CHANDRAKAANT DALAL (Uncontested)                    Surat(24)            0
+                             BISHNU PADA RAY Andaman & Nicobar Islands(1)       102436
+                    DELKAR KALABEN MOHANBHAI      Dadar & Nagar Haveli(2)       121074
+                                   TAPIR GAO            Arunachal East(2)       145581
+                                KIREN RIJIJU            Arunachal West(1)       205417
+
+Indian National Congress - INC:
+         Winning Candidate   Constituency  Total Votes
+ MUHAMMED HAMDULLAH SAYEED Lakshadweep(1)        25726
+             MANISH TEWARI  Chandigarh(1)       216657
+CAPTAIN  VIRIATO FERNANDES   South Goa(2)       217836
+       GURJEET SINGH AUJLA    Amritsar(2)       255181
+        SHER SINGH GHUBAYA   Firozpur(10)       266626
+
+Samajwadi Party - SP:
+                   Winning Candidate   Constituency  Total Votes
+                 RAMASHANKAR RAJBHAR   Salempur(71)       405472
+      KRISHNA DEVI SHIVSHANKER PATEL      Banda(48)       406567
+                 DAROGA PRASAD SAROJ    Lalganj(68)       439959
+SHIV PAL SINGH PATEL (DR. S P SINGH) Pratapgarh(39)       441932
+                    ANAND BHADAURIYA  Dhaurahra(29)       443743
+
+All India Trinamool Congress - AITC:
+  Winning Candidate      Constituency  Total Votes
+BANDYOPADHYAY SUDIP Kolkata Uttar(24)       454696
+    PARTHA BHOWMICK    Barrackpur(15)       520231
+       PATHAN YUSUF    Baharampur(10)       524516
+        SOUGATA RAY       Dum dum(16)       528579
+   KHALILUR RAHAMAN       Jangipur(9)       544427
+
+Dravida Munnetra Kazhagam - DMK:
+Winning Candidate       Constituency  Total Votes
+  DAYANIDHI MARAN CHENNAI CENTRAL(4)       413848
+DR RANI SRI KUMAR        TENKASI(37)       425679
+         MANI. A.     DHARMAPURI(10)       432667
+  MATHESWARAN V S       NAMAKKAL(16)       462036
+           RAJA A       NILGIRIS(19)       473212
+
+Telugu Desam - TDP:
+               Winning Candidate     Constituency  Total Votes
+BASTIPATI NAGARAJU PANCHALINGALA     Kurnoolu(18)       658914
+              DR BYREDDY SHABARI      Nandyal(17)       701131
+      MAGUNTA SREENIVASULU REDDY       Ongole(16)       701894
+          KRISHNA PRASAD TENNETI Bapatla (SC)(15)       717493
+               B K PARTHASARATHI     Hindupur(20)       725534
+
+Janata Dal  (United) - JD(U):
+    Winning Candidate  Constituency  Total Votes
+    VIJAYLAKSHMI DEVI     Siwan(18)       386508
+         LOVELY ANAND    Sheohar(4)       476612
+      GIRIDHARI YADAV     Banka(27)       506678
+ DR. ALOK KUMAR SUMAN Gopalganj(17)       511866
+DEVESH CHANDRA THAKUR  Sitamarhi(5)       515719
+
+Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT:
+             Winning Candidate             Constituency  Total Votes
+           ANIL YESHWANT DESAI Mumbai South Central(30)       395138
+          ARVIND GANPAT SAWANT         Mumbai South(31)       395655
+             SANJAY DINA PATIL    Mumbai North East(28)       450937
+   BHAUSAHEB RAJARAM WAKCHAURE              Shirdi (38)       476900
+AASHTIKAR PATIL NAGESH BAPURAO              Hingoli(15)       492535
+
+Nationalist Congress Party – Sharadchandra Pawar - NCPSP:
+                  Winning Candidate   Constituency  Total Votes
+BALYA MAMA - SURESH GOPINATH MHATRE   Bhiwandi(23)       499464
+                AMAR SHARADRAO KALE      Wardha(8)       533106
+          BHASKAR MURLIDHAR BHAGARE   Dindori (20)       577339
+  MOHITE-PATIL DHAIRYASHEEL RAJSINH      Madha(43)       622213
+              NILESH DNYANDEV LANKE Ahmednagar(37)       624797
+
+Shiv Sena - SHS:
+            Winning Candidate          Constituency  Total Votes
+   JADHAV PRATAPRAO GANPATRAO           Buldhana(5)       349867
+     RAVINDRA DATTARAM WAIKAR Mumbai North West(27)       452644
+   BHUMARE SANDIPANRAO ASARAM        Aurangabad(19)       476130
+DHAIRYASHEEL SAMBHAJIRAO MANE      Hatkanangale(48)       520190
+    DR SHRIKANT EKNATH SHINDE            Kalyan(24)       589636
+
